@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CoderDude2
 - 👀 I’m interested in Electrical Engineering and Computer Science
-- 🌱 I’m currently learning Rust and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Go and JavaScript
 - 📫 How to reach me: isaacboots1@gmail.com
 
 <!---
